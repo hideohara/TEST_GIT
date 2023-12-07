@@ -2,7 +2,7 @@
 #include "TextureManager.h"
 #include <cassert>
 
-// TEST1
+// TEST2
 
 GameScene::GameScene() {}
 
